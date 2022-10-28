@@ -1,0 +1,15 @@
+.author-details img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+/* circale */
+.circle {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: rgb(11, 10, 10);
+    font-size: 50px;
+    color: #fff;
+}
